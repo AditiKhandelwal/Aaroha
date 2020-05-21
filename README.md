@@ -1,2 +1,2 @@
 # Aaroha
-NGO WEBSITE
+This website is made using HTML, CSS, Javascript, Bootstrap and PHP+MySQL.
